@@ -1,8 +1,7 @@
+
 .dabba {
   height: 400px;
   width: 58%;
-  margin: auto;
-
   display: flex;
   justify-content: center;
   align-items: center;
@@ -59,9 +58,9 @@
         align-items: center;
     }
     .chotebox:hover{
-        width: 20vw;
+        width: 200px;
     }
     .dabba{
-     margin-right: 27%;
+     margin-right:18% ;
     }
 }
